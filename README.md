@@ -10,3 +10,6 @@ This project analyzes the COVID-19 pandemic from 2020 to 2024, focusing on new c
 3. How did global testing rates evolve over time?
 4. Which countries achieved the highest vaccination rates?
 5. How did testing rates change globally over time?
+
+
+![Covid 19 Analysis](https://github.com/user-attachments/assets/daa7f01e-f973-41f1-901c-7e8dead56ba8)
